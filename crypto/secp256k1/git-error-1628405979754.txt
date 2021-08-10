@@ -1,0 +1,44 @@
+> git pull --tags origin Next
+-add-runtime is not a valid attribute name: .gitattributes:2
+-bridge is not a valid attribute name: .gitattributes:7
+(default is not a valid attribute name: .gitattributes:9
+(default is not a valid attribute name: .gitattributes:11
+(default is not a valid attribute name: .gitattributes:12
+(default is not a valid attribute name: .gitattributes:18
+-debug is not a valid attribute name: .gitattributes:19
+("host" is not a valid attribute name: .gitattributes:21
+("shareable" is not a valid attribute name: .gitattributes:24
+(default is not a valid attribute name: .gitattributes:25
+(default is not a valid attribute name: .gitattributes:26
+(default is not a valid attribute name: .gitattributes:27
+(default is not a valid attribute name: .gitattributes:32
+-group is not a valid attribute name: .gitattributes:36
+-host is not a valid attribute name: .gitattributes:38
+'host-gateway' is not a valid attribute name: .gitattributes:39
+(default is not a valid attribute name: .gitattributes:41
+(default is not a valid attribute name: .gitattributes:45
+(default is not a valid attribute name: .gitattributes:46
+(default is not a valid attribute name: .gitattributes:47
+(default is not a valid attribute name: .gitattributes:48
+(default is not a valid attribute name: .gitattributes:49
+(default is not a valid attribute name: .gitattributes:53
+-log-level is not a valid attribute name: .gitattributes:54
+(default is not a valid attribute name: .gitattributes:55
+(default is not a valid attribute name: .gitattributes:56
+(default is not a valid attribute name: .gitattributes:57
+(default is not a valid attribute name: .gitattributes:58
+(default is not a valid attribute name: .gitattributes:61
+(default is not a valid attribute name: .gitattributes:64
+-pidfile is not a valid attribute name: .gitattributes:65
+mode; is not a valid attribute name: .gitattributes:68
+(default is not a valid attribute name: .gitattributes:71
+-storage-driver is not a valid attribute name: .gitattributes:72
+TLS; is not a valid attribute name: .gitattributes:75
+(default is not a valid attribute name: .gitattributes:76
+(default is not a valid attribute name: .gitattributes:77
+(default is not a valid attribute name: .gitattributes:78
+(default is not a valid attribute name: .gitattributes:80
+User/Group is not a valid attribute name: .gitattributes:82
+-version is not a valid attribute name: .gitattributes:83
+error: Cannot pull with rebase, you have unstaged changes.
+error: please commit or stash them.
