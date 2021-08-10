@@ -1,0 +1,22 @@
+{
+  "configurations": [ //github.com/WhiteFeather27/go-ethereum.git
+    {
+      "inheritEnvironments": [
+        "https",
+        //prod.liveshare.vsengsaas.visualstudio.com/join?93B7B9AF6A2E8C44860A347944E05D11CA40
+        "mingw_64"
+      ],
+      "name": "Mingw64",
+      "includePath": [
+        "${env.INCLUDE}",
+        "${workspaceRoot}\\**"
+      ],
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ]
+}
+  
+    
+
+  
+    //polygon-mainnet.g.alchemy.com/v2/o93me4joIgLBJZ_b7E1ROZJYj4x7_hha]
